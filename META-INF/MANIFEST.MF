@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.2.1
+
+Name: assets/www/audio/crystal01.ogg
+SHA1-Digest: biJz1jmGcEZZg/sc6wySX96P82s=
+
+Name: assets/www/index.html
+SHA1-Digest: SNcDyzz/XsYzVplyJMb9LSOmRkc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: RfV2Zych6PAorz16UORU+iRWtL4=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: dyCdlJVfQmQ6RnqjQ3vcc5465Ws=
+
+Name: assets/www/img/Sally_Bird_icon.png
+SHA1-Digest: fiPWxnE7z8DfW5X+YKZD3hkqj78=
+
+Name: res/mipmap/icon.png
+SHA1-Digest: 2preuHB0/E3YNRq3IDQv2IVGNZQ=
+
+Name: assets/www/audio/Deadlocked.mp3
+SHA1-Digest: VSEOj4/OKczy29/gV7BncaU1miM=
+
+Name: assets/www/cordova.js
+SHA1-Digest: dyCdlJVfQmQ6RnqjQ3vcc5465Ws=
+
+Name: res/xml/config.xml
+SHA1-Digest: SM9GtoGMjyww65cdnflR9vh+izk=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: 2preuHB0/E3YNRq3IDQv2IVGNZQ=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: 2preuHB0/E3YNRq3IDQv2IVGNZQ=
+
+Name: assets/www/img/flappy_bird_pipeBottom.png
+SHA1-Digest: nTYiQdfWcftRMeAlppF66CUIjX8=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: 1+yZd5/r7uCWIjOETXTAPxl+RU4=
+
+Name: assets/www/js123/Vine.js
+SHA1-Digest: /LH0GmZXWPGeraZCquVjLL87Oqc=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: 2preuHB0/E3YNRq3IDQv2IVGNZQ=
+
+Name: assets/www/img/Super_fon.png
+SHA1-Digest: MhpdTPzZYzV1hwGIJrneBsHRYS4=
+
+Name: resources.arsc
+SHA1-Digest: ABwqCuo0Ry8cYssi4qQ/v9BAThY=
+
+Name: classes.dex
+SHA1-Digest: NLRJ/ULEqVT6jQZJyMFtuvq6x28=
+
+Name: assets/www/img/HAH.png
+SHA1-Digest: DJkkHVpxHpvgygkG8fywsQ8lp5A=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: 4PaeU+ZMDaLIgEt01mPvbsuMsE4=
+
+Name: assets/www/img/flappy_bird_pipeUp.png
+SHA1-Digest: 8Ps77RbIDJ+xXVVhZ99MkZy7JOQ=
+
